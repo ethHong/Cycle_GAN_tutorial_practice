@@ -7,7 +7,8 @@ https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tut
 
 ## Image Transformation
 
-CycleGAN repo: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+This project refers to the original CycleGAN repo: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
+
 Cycle GAN transforms image from one domain, to another domain. Unlike traditional GAN, it forces reconstruction of image to original domain to be similar to the input, by adding Cycle-Loss
 
 ![image](https://user-images.githubusercontent.com/43837843/122640665-b8e19800-d13b-11eb-930e-7751ea2ac402.png)
